@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hokkaido"@eng-Latn ,
         "北海道"@jpn-Jpan ;
-    wdata:q7200235 "JP01" ;
+    wdata:Q7200235 "JP01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -95,7 +95,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gunma"@eng-Latn ,
         "群馬県"@jpn-Jpan ;
-    wdata:q7200235 "JP10" ;
+    wdata:Q7200235 "JP10" ;
 .
 
 <urn:mdciii:1603:16:392:1:11>
@@ -108,7 +108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saitama"@eng-Latn ,
         "埼玉県"@jpn-Jpan ;
-    wdata:q7200235 "JP11" ;
+    wdata:Q7200235 "JP11" ;
 .
 
 <urn:mdciii:1603:16:392:1:12>
@@ -121,7 +121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chiba"@eng-Latn ,
         "千葉県"@jpn-Jpan ;
-    wdata:q7200235 "JP12" ;
+    wdata:Q7200235 "JP12" ;
 .
 
 <urn:mdciii:1603:16:392:1:13>
@@ -134,7 +134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tokyo"@eng-Latn ,
         "東京都"@jpn-Jpan ;
-    wdata:q7200235 "JP13" ;
+    wdata:Q7200235 "JP13" ;
 .
 
 <urn:mdciii:1603:16:392:1:14>
@@ -147,7 +147,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kanagawa"@eng-Latn ,
         "神奈川県"@jpn-Jpan ;
-    wdata:q7200235 "JP14" ;
+    wdata:Q7200235 "JP14" ;
 .
 
 <urn:mdciii:1603:16:392:1:15>
@@ -160,7 +160,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Niigata"@eng-Latn ,
         "新潟県"@jpn-Jpan ;
-    wdata:q7200235 "JP15" ;
+    wdata:Q7200235 "JP15" ;
 .
 
 <urn:mdciii:1603:16:392:1:16>
@@ -173,7 +173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Toyama"@eng-Latn ,
         "富山県"@jpn-Jpan ;
-    wdata:q7200235 "JP16" ;
+    wdata:Q7200235 "JP16" ;
 .
 
 <urn:mdciii:1603:16:392:1:17>
@@ -186,7 +186,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ishikawa"@eng-Latn ,
         "石川県"@jpn-Jpan ;
-    wdata:q7200235 "JP17" ;
+    wdata:Q7200235 "JP17" ;
 .
 
 <urn:mdciii:1603:16:392:1:18>
@@ -199,7 +199,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fukui"@eng-Latn ,
         "福井県"@jpn-Jpan ;
-    wdata:q7200235 "JP18" ;
+    wdata:Q7200235 "JP18" ;
 .
 
 <urn:mdciii:1603:16:392:1:19>
@@ -212,7 +212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yamanashi"@eng-Latn ,
         "山梨県"@jpn-Jpan ;
-    wdata:q7200235 "JP19" ;
+    wdata:Q7200235 "JP19" ;
 .
 
 <urn:mdciii:1603:16:392:1:2>
@@ -225,7 +225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aomori"@eng-Latn ,
         "青森県"@jpn-Jpan ;
-    wdata:q7200235 "JP02" ;
+    wdata:Q7200235 "JP02" ;
 .
 
 <urn:mdciii:1603:16:392:1:20>
@@ -238,7 +238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nagano"@eng-Latn ,
         "長野県"@jpn-Jpan ;
-    wdata:q7200235 "JP20" ;
+    wdata:Q7200235 "JP20" ;
 .
 
 <urn:mdciii:1603:16:392:1:21>
@@ -251,7 +251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gifu"@eng-Latn ,
         "岐阜県"@jpn-Jpan ;
-    wdata:q7200235 "JP21" ;
+    wdata:Q7200235 "JP21" ;
 .
 
 <urn:mdciii:1603:16:392:1:22>
@@ -264,7 +264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shizuoka"@eng-Latn ,
         "静岡県"@jpn-Jpan ;
-    wdata:q7200235 "JP22" ;
+    wdata:Q7200235 "JP22" ;
 .
 
 <urn:mdciii:1603:16:392:1:23>
@@ -277,7 +277,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aichi"@eng-Latn ,
         "愛知県"@jpn-Jpan ;
-    wdata:q7200235 "JP23" ;
+    wdata:Q7200235 "JP23" ;
 .
 
 <urn:mdciii:1603:16:392:1:24>
@@ -290,7 +290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mie"@eng-Latn ,
         "三重県"@jpn-Jpan ;
-    wdata:q7200235 "JP24" ;
+    wdata:Q7200235 "JP24" ;
 .
 
 <urn:mdciii:1603:16:392:1:25>
@@ -303,7 +303,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shiga"@eng-Latn ,
         "滋賀県"@jpn-Jpan ;
-    wdata:q7200235 "JP25" ;
+    wdata:Q7200235 "JP25" ;
 .
 
 <urn:mdciii:1603:16:392:1:26>
@@ -316,7 +316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kyoto"@eng-Latn ,
         "京都府"@jpn-Jpan ;
-    wdata:q7200235 "JP26" ;
+    wdata:Q7200235 "JP26" ;
 .
 
 <urn:mdciii:1603:16:392:1:27>
@@ -329,7 +329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Osaka"@eng-Latn ,
         "大阪府"@jpn-Jpan ;
-    wdata:q7200235 "JP27" ;
+    wdata:Q7200235 "JP27" ;
 .
 
 <urn:mdciii:1603:16:392:1:28>
@@ -342,7 +342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hyōgo"@eng-Latn ,
         "兵庫県"@jpn-Jpan ;
-    wdata:q7200235 "JP28" ;
+    wdata:Q7200235 "JP28" ;
 .
 
 <urn:mdciii:1603:16:392:1:29>
@@ -355,7 +355,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nara"@eng-Latn ,
         "奈良県"@jpn-Jpan ;
-    wdata:q7200235 "JP29" ;
+    wdata:Q7200235 "JP29" ;
 .
 
 <urn:mdciii:1603:16:392:1:3>
@@ -368,7 +368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Iwate"@eng-Latn ,
         "岩手県"@jpn-Jpan ;
-    wdata:q7200235 "JP03" ;
+    wdata:Q7200235 "JP03" ;
 .
 
 <urn:mdciii:1603:16:392:1:30>
@@ -381,7 +381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wakayama"@eng-Latn ,
         "和歌山県"@jpn-Jpan ;
-    wdata:q7200235 "JP30" ;
+    wdata:Q7200235 "JP30" ;
 .
 
 <urn:mdciii:1603:16:392:1:31>
@@ -394,7 +394,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tottori"@eng-Latn ,
         "鳥取県"@jpn-Jpan ;
-    wdata:q7200235 "JP31" ;
+    wdata:Q7200235 "JP31" ;
 .
 
 <urn:mdciii:1603:16:392:1:32>
@@ -407,7 +407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shimane"@eng-Latn ,
         "島根県"@jpn-Jpan ;
-    wdata:q7200235 "JP32" ;
+    wdata:Q7200235 "JP32" ;
 .
 
 <urn:mdciii:1603:16:392:1:33>
@@ -420,7 +420,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Okayama"@eng-Latn ,
         "岡山県"@jpn-Jpan ;
-    wdata:q7200235 "JP33" ;
+    wdata:Q7200235 "JP33" ;
 .
 
 <urn:mdciii:1603:16:392:1:34>
@@ -433,7 +433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hiroshima"@eng-Latn ,
         "広島県"@jpn-Jpan ;
-    wdata:q7200235 "JP34" ;
+    wdata:Q7200235 "JP34" ;
 .
 
 <urn:mdciii:1603:16:392:1:35>
@@ -446,7 +446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yamaguchi"@eng-Latn ,
         "山口県"@jpn-Jpan ;
-    wdata:q7200235 "JP35" ;
+    wdata:Q7200235 "JP35" ;
 .
 
 <urn:mdciii:1603:16:392:1:36>
@@ -459,7 +459,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tokushima"@eng-Latn ,
         "徳島県"@jpn-Jpan ;
-    wdata:q7200235 "JP36" ;
+    wdata:Q7200235 "JP36" ;
 .
 
 <urn:mdciii:1603:16:392:1:37>
@@ -472,7 +472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kagawa"@eng-Latn ,
         "香川県"@jpn-Jpan ;
-    wdata:q7200235 "JP37" ;
+    wdata:Q7200235 "JP37" ;
 .
 
 <urn:mdciii:1603:16:392:1:38>
@@ -485,7 +485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ehime"@eng-Latn ,
         "愛媛県"@jpn-Jpan ;
-    wdata:q7200235 "JP38" ;
+    wdata:Q7200235 "JP38" ;
 .
 
 <urn:mdciii:1603:16:392:1:39>
@@ -498,7 +498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kōchi"@eng-Latn ,
         "高知県"@jpn-Jpan ;
-    wdata:q7200235 "JP39" ;
+    wdata:Q7200235 "JP39" ;
 .
 
 <urn:mdciii:1603:16:392:1:4>
@@ -511,7 +511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Miyagi"@eng-Latn ,
         "宮城県"@jpn-Jpan ;
-    wdata:q7200235 "JP04" ;
+    wdata:Q7200235 "JP04" ;
 .
 
 <urn:mdciii:1603:16:392:1:40>
@@ -524,7 +524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fukuoka"@eng-Latn ,
         "福岡県"@jpn-Jpan ;
-    wdata:q7200235 "JP40" ;
+    wdata:Q7200235 "JP40" ;
 .
 
 <urn:mdciii:1603:16:392:1:41>
@@ -537,7 +537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saga"@eng-Latn ,
         "佐賀県"@jpn-Jpan ;
-    wdata:q7200235 "JP41" ;
+    wdata:Q7200235 "JP41" ;
 .
 
 <urn:mdciii:1603:16:392:1:42>
@@ -550,7 +550,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nagasaki"@eng-Latn ,
         "長崎県"@jpn-Jpan ;
-    wdata:q7200235 "JP42" ;
+    wdata:Q7200235 "JP42" ;
 .
 
 <urn:mdciii:1603:16:392:1:43>
@@ -563,7 +563,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kumamoto"@eng-Latn ,
         "熊本県"@jpn-Jpan ;
-    wdata:q7200235 "JP43" ;
+    wdata:Q7200235 "JP43" ;
 .
 
 <urn:mdciii:1603:16:392:1:44>
@@ -576,7 +576,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ōita"@eng-Latn ,
         "大分県"@jpn-Jpan ;
-    wdata:q7200235 "JP44" ;
+    wdata:Q7200235 "JP44" ;
 .
 
 <urn:mdciii:1603:16:392:1:45>
@@ -589,7 +589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Miyazaki"@eng-Latn ,
         "宮崎県"@jpn-Jpan ;
-    wdata:q7200235 "JP45" ;
+    wdata:Q7200235 "JP45" ;
 .
 
 <urn:mdciii:1603:16:392:1:46>
@@ -602,7 +602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kagoshima"@eng-Latn ,
         "鹿児島県"@jpn-Jpan ;
-    wdata:q7200235 "JP46" ;
+    wdata:Q7200235 "JP46" ;
 .
 
 <urn:mdciii:1603:16:392:1:47>
@@ -615,7 +615,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Okinawa"@eng-Latn ,
         "沖縄県"@jpn-Jpan ;
-    wdata:q7200235 "JP47" ;
+    wdata:Q7200235 "JP47" ;
 .
 
 <urn:mdciii:1603:16:392:1:5>
@@ -628,7 +628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Akita"@eng-Latn ,
         "秋田県"@jpn-Jpan ;
-    wdata:q7200235 "JP05" ;
+    wdata:Q7200235 "JP05" ;
 .
 
 <urn:mdciii:1603:16:392:1:6>
@@ -641,7 +641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yamagata"@eng-Latn ,
         "山形県"@jpn-Jpan ;
-    wdata:q7200235 "JP06" ;
+    wdata:Q7200235 "JP06" ;
 .
 
 <urn:mdciii:1603:16:392:1:7>
@@ -654,7 +654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fukushima"@eng-Latn ,
         "福島県"@jpn-Jpan ;
-    wdata:q7200235 "JP07" ;
+    wdata:Q7200235 "JP07" ;
 .
 
 <urn:mdciii:1603:16:392:1:8>
@@ -667,7 +667,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ibaraki"@eng-Latn ,
         "茨城県"@jpn-Jpan ;
-    wdata:q7200235 "JP08" ;
+    wdata:Q7200235 "JP08" ;
 .
 
 <urn:mdciii:1603:16:392:1:9>
@@ -680,6 +680,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tochigi"@eng-Latn ,
         "栃木県"@jpn-Jpan ;
-    wdata:q7200235 "JP09" ;
+    wdata:Q7200235 "JP09" ;
 .
 
